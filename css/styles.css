@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.Contenedor{
+	width: 100%;
+	height: 100%
+}
+.cont-izquierda{
+ width: 50%;
+ height: -webkit-fill-available;
+ float: left;
+}
+.cont-derecha{
+  width: 50%;
+  height: -webkit-fill-available;
+  float: right;
+}
+
+#img-fondo{
+	float: left;
+	width: 100%;
+  padding-top: 15%;
+}
+
+#img-concredito{
+	float: left;
+  margin-top: -68%;
+  width: 45%;
+}
+
+#cont-login{
+	margin-top: 25%;
+}
+
+#js-Tabla-Perfil{
+  margin-top: 4%;
+  text-align: center;
+}
+
+#js-Tabla-Solicitudes{
+  width: 70%;
+  float: left;
+  text-align: center;
+}
+
+#btn-NuevaS{
+  display: none;
+}
+
+.view-h:hover{
+  background-color: #afd6b9;
+  color: #618261;
+}
+
+#modal-nueva-sol{
+  color: black;
+  margin-top: 2%;
+}
+
+#modal-check{
+  margin-top: 5%;
+}
+
+#modal-radio{
+  margin-top: 5%;
+}
+
+.form-modal label{
+  margin-top: 5%;
+}
+
+#modal-titulo{
+  color: black;
+  text-align: center;
+}
+
+.login-form{width:390px;}
+.login-title{font-family: 'Exo', sans-serif;text-align:center;color: white;}
+.login-userinput{margin-bottom: 10px;}
+.login-button{margin-top:10px;}
+.login-options{margin-bottom:0px;}
+.login-forgot{float: right;}
+
+#body-login{
+	width: 45%;
+  margin-left: 30%;
+  margin-top: 8%;
+}
+
+.login-title{
+	padding-top: 25%;
+  color: black;
+}
